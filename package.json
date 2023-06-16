@@ -1,0 +1,17 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "description": "Objective: To create a custom tool which Able to learn via our feeds. This means one interface where we can put our phrases and feedback. This will create a dictionary on chatgpt. Able to show feedback for a question from the above dictionary. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatgpt"
+  ],
+  "author": "Saumya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
