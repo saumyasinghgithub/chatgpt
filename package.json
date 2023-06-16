@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "description": "Objective: To create a custom tool which",
+  "main": " we can put our phrases and feedback. This will create a dictionary on chatgpt.",
+  "scripts": {
+    "test": "k for a question from the above dictionary. "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/ks-tech/chatgpt.git"
+  },
+  "keywords": [
+    "chatgpt"
+  ],
+  "author": "Saumya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/ks-tech/chatgpt/issues"
+  },
+  "homepage": "https://bitbucket.org/ks-tech/chatgpt#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
